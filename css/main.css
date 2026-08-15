@@ -1,0 +1,121 @@
+.body-style {
+  color: #C3D6D8;
+  font-family: 'JetBrains Mono', monospace;
+  background-color: #010103;
+  background-size: cover;
+}
+
+.header-style {
+  background-color: #030609;
+  border: #060C10 solid 2px;
+  border-radius: 8px;
+  padding: 0.5% 0;
+}
+
+.logo-style {
+  background-color: #030609;
+  margin: 0 0 0 1%;
+  width: 48%;
+  display: inline-block;
+}
+
+.logo-img-style {
+  width: 2.5%;
+  height: 2.5%;
+}
+
+.price-style {
+  background-color: #030609;
+  margin: 0 1% 0 0;
+  width: 48%;
+  display: inline-block;
+}
+
+.price-link-left-style {
+  display: inline-block;
+  margin: 0 5% 0 30%;
+}
+
+.price-link-right-style {
+  display: inline-block;
+  margin: 0 0 0 5%;
+}
+
+.header-link-style {
+  text-decoration: none;
+  color: #93B1B9;
+}
+
+.loz-style {
+  border: #060C10 solid 2px;
+  border-radius: 8px;
+  background-color: #030609;
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+  overflow: hidden;
+}
+
+.loz-title-left-style {
+  float: left;
+  margin-left: 2%;
+}
+
+.loz-title-right-style {
+  float: right;
+  margin-right: 2%;
+}
+
+.loz-title-left-clear-style {
+  float: left;
+  clear: both;
+  margin-left: 2%;
+}
+
+.loz-title-style {
+  font-size: 500%;
+}
+
+.info-style {
+  margin: 250px 0 0 2%;
+  font-size: 150%;
+}
+
+.img-block-style {
+  border: #060C10 solid 2px;
+  border-radius: 2px;
+  background-color: #030609;
+  width: 48%;
+  display: inline-block;
+  margin: 0 1% 0 0;
+}
+
+.img-wrapper-style {
+  display: inline-block;
+}
+
+.gif-style {
+  width: 229%;
+  height: 168%;
+  display: inline-block;
+}
+
+.footer-info-style {
+  background-color: #0F181A;
+  border: #0B1215 solid 2px;
+  border-radius: 1px;
+  margin: 0 auto;
+}
+
+.info-ul-style {
+  list-style: none;
+  display: flex;
+  gap: 2%;
+  padding: 0;
+  justify-content: center;
+}
+
+.footer-link-style {
+  text-decoration: none;
+  color: #6C8B98;
+}
